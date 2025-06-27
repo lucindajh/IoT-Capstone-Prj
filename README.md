@@ -11,3 +11,4 @@ The Adafruit IO dashboard can be accessed via this link: (https://io.adafruit.co
 ![prototype wiring diagram](./diagrams/prototype-wiring.png)
 
 ## Software Architecture
+![software architecture diagram](./diagrams/software-architecture.png)
