@@ -8,6 +8,6 @@ At the top of the main.py file there are two variables called ‘ssid’ and ‘
 The Adafruit IO dashboard can be accessed via this link: (https://io.adafruit.com/lucindahogue1/dashboards/nft-hydroponics-dashboard)
 
 ## Wiring Diagram
-
+![prototype wiring diagram](./diagrams/prototype-wiring.png)
 
 ## Software Architecture
